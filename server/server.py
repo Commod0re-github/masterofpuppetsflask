@@ -61,4 +61,4 @@ def give_command():
 
 
 if __name__ == "__main__":  # start point
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)

